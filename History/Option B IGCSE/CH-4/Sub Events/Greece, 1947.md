@@ -1,0 +1,8 @@
+- This is an early example of the [[Truman Doctrine]].
+- War between the British and American supported Monarchists and Communists supported by Tito after the liberation from the Germans.
+- Britain sent troops to fight for the monarchists and the king was returned to power.
+- In 1946 the USSR protested to the UN that British troops where a danger to Greece but the UN did nothing -> civil war.
+- Greece didnt have money for civil war -> USA paid.
+- Communists tried to take control by force, but then Americans got involved and the monarchists won.
+- By 1950 Greece had a monarchist government but it was weak and always crisis.
+- Showed the inside disagreements in cominform, Stalin didnt want to intervene on behalf of the communists, but Tito did.

@@ -1,0 +1,13 @@
+- Sensory organs contain groups of receptors that respond to a specific stimuli.
+	- **skin**:
+		- sensitive to pressure, heat, temp and pain.
+	- **tongue**:
+		- sensitive to chemicals in food and drinks.
+	- **nose**:
+		- sensitive to chemicals in the air.
+	- **ear**:
+		- sensitive to sound and movement.
+	- **[[Eye]]**:
+		- sensitive to light.
+- once the sense organ has been stimulated it sends an electrical signal which is passed to a sensory [[Neurones]] which carries the signal to the Central [[Nervous System]].
+- There, a decision is made for a response.

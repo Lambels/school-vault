@@ -1,0 +1,6 @@
+- Domestic:
+	- Nixon backed himself into a corner with his speeches about officially backing down [[1955 - 1975, The Vietnam War]]. He had a hard choice to make, lie to the people and stay in Vietnam or back down from the Vietnam on their terms. None of his options looked good, he has got himself into these 2 bad options by a speech he hold where he promised to back down from Vietnam. The [[Viet Cong]] now knew that all they had to do is just wait him out and shouldnt listen to any negotiations.
+	- This paired with the fact that almost half of America were still supporting the war and that there were so many veterans and families who have seen their friends and children die at war had to see America back down and that all the tax payers see 20 billion $ go to the futile war effort with Nixon backing down. This for sure wouldnt be taken nice by the people who couldve seen this money pumped back in domestic infrastructure.
+- External:
+	- Failed policy of containment.
+	- [[The Domino Effect]].

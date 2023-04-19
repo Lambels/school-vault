@@ -1,0 +1,72 @@
+{
+  "collapse-filter": true,
+  "search": "path:/history",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:Biology",
+      "color": {
+        "a": 1,
+        "rgb": 3669760
+      }
+    },
+    {
+      "query": "path:Chemistry",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:Physics",
+      "color": {
+        "a": 1,
+        "rgb": 4607
+      }
+    },
+    {
+      "query": "tag:#Question",
+      "color": {
+        "a": 1,
+        "rgb": 16720640
+      }
+    },
+    {
+      "query": "path:History",
+      "color": {
+        "a": 1,
+        "rgb": 16731392
+      }
+    },
+    {
+      "query": "path:ICT",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "tag:#Schedule",
+      "color": {
+        "a": 1,
+        "rgb": 10965728
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -1.1,
+  "nodeSizeMultiplier": 1.52198893229167,
+  "lineSizeMultiplier": 2.28003743489583,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 15.9724934895833,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.8204348162637568,
+  "close": true
+}

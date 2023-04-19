@@ -1,0 +1,5 @@
+- This was the first speech werent allies anymore.
+- There was clear separation between west and east.
+- There was resentment for communism.
+- Speech hold in USA (the embassy of Capitalism).
+- Held in 1946.

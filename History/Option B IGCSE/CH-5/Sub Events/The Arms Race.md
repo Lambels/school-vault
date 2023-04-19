@@ -1,0 +1,9 @@
+- USA developed and tested its first atomic bomb in 1945.
+- USSR developed and tested their first atomic bomb in 1949.
+- A war between USA and USSR on their weapon capability and quantity.
+- It led to the fear of mutually assured destruction as each side had enough weapons to destroy the world many times over.
+- 1952 - the USA developed the hydrogen bomb.
+- 1953 - the USSR tested its own hydrogen bomb.
+- [[SEATO]]
+- [[CENTO]]
+- [[1962, The Cuban Missile Crisis]]

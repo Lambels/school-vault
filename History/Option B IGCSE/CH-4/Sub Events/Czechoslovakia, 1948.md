@@ -1,0 +1,5 @@
+- Huge turning point in USA's attitude to communism.
+- Very violent USSR takeover.
+- Pro American minister, Jan Masaryk was found dead beside his window, the Americans blamed the Russians.
+- March 1948 anti soviet leaders purged.
+- This lead to the immediate acceptance of The [[Marshall Plan]].

@@ -1,0 +1,4 @@
+- The main purpose of this alliance was to increase USA's trading network.
+- Strengthen grip in Asia.
+- Add military locations near communism tumours.
+- 1954 .

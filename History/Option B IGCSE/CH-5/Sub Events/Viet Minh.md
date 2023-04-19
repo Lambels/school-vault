@@ -1,0 +1,1 @@
+- The Viet Minh were assembled to fight the Japanese. They were ruled under Ho Chi Minh and liberated Vietnam in 1945 when they entered Hanoi.

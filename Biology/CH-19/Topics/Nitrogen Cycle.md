@@ -1,0 +1,2 @@
+- Nitrogen is important for making proteins ([[Uses of Carbohydrates]]).
+- ![[Pasted image 20230114222748.png]]

@@ -1,0 +1,5 @@
+- Dealt with **Hungary**.
+- Lost allot of territory.
+- 3 million Hungarians stranded.
+- It was due to pay reparations but didnt since it was in a very bad economic state.
+- 35,000 soldiers.

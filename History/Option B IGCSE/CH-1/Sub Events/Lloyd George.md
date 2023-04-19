@@ -1,0 +1,4 @@
+- He was a very able politician.
+- A realist.
+- Experienced politician.
+- He occupied the middle ground between [[Woodrow Wilson]] and [[Georges Clemenceau]].

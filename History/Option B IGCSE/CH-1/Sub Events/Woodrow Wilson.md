@@ -1,0 +1,4 @@
+- 1914 - 1917 his job was to keep USA out of the war.
+- He drew up [[The 14 Points]] which were aimed to give a fair end to the war and prevent future wars.
+- He was an idealist and reformer.
+- He was obstinate, once he made his mind up he couldnt be returned.

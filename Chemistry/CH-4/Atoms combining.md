@@ -1,0 +1,10 @@
+## Topics:
+- Compounds, mixtures and chemical change [[4.1]]
+- Why do atoms form bonds [[4.2]]
+- The ionic bond [[4.3]]
+- More about ions [[4.4]]
+- The covalent bond [[4.5]]
+- Covalent compounds [[4.6]]
+- Comparing ionic and covalent compounds [[4.7]]
+- Giant covalent structures [[4.8]]
+- The bonding in metals [[4.9]]

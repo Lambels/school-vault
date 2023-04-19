@@ -1,0 +1,7 @@
+[[1920, The Treaty Of Sevres]]
+#Question 
+
+- Because of the Nationalist lead by Kemal:
+	- The Nationalists lead by Kemal were bitter in respect to the treaty, and wanted payback. They did this in the form of reconquering Smyrna from Greece, negotiating over the French influence zone and the very violent takeover of Armenia. Armenia was initially in control of Turkey till Wilson demanded that Armenia was made independent. But the Turks wouldnt stand with this, moreover when they heard that Armenia was to join the soviet union the Turks committed atrocities like the Armenian Genocide and after allot of fighting Armenia was annexed to Turkey. Linking this back, one reason why the [[1920, The Treaty Of Sevres]] was replaced with Lausanne was to acomodate and appease these changed made by Kemal and his army.
+- Because the Allies didnt want to risk any future wars or conflicts:
+	- Smyrna was clearly a flashpoint, and the Allies knew it. They knew that if the didnt give Smyrna to the Turks a war would start sooner or later. They had also seen what atrocities and lengths the Turks were willing to go to. In the Armenian Genocide the Turks massacred colosal amounts of people. Moreover they even went to the point were they burned Smyrna. It was clear that the Turks werent to give up on this nations if they werent officially theirs. This is why the treaty of Lausanne was made, to possibly stop future conflicts.

@@ -1,0 +1,4 @@
+- Leader of the Solidarity movement ([[1980 - 1981, Solidarity in Poland]]).
+- Committed catholic (like most of Poland).
+- He became the leader of the first non communist polish gov. since the second world war.
+- Shipyard worker in Gdansk.

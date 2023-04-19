@@ -1,0 +1,7 @@
+- Sensitivity is the ability to detect and respond to a change in the environment.
+- A change in the environment is called a stimulus.
+	- A receptor organ recognises the stimulus.
+	- An effector is an organ which carries out the response.
+- Two systems involved in the response and detection which lead up to sensitivity:
+	- [[Endocrine System]]
+	- [[Nervous System]]

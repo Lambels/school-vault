@@ -1,0 +1,17 @@
+- The creation of [[NATO]]:
+	- The Berlin Blockade was a flashpoint in the cold war and tensions where higher then ever, a defensive military alliance was needed.
+	- [[NATO]] could be used to protect the planes flying into Berlin - [[Berlin Airlift]] since shooting a plain down meant an act of war against all of [[NATO]].
+- Propaganda victory for Capitalism:
+	- The Capitalist island in the sea of communism which was Berlin stood up to the whole of communism in even the hardest odds.
+	- Stalin was forced to back down. After 15 months of continuous provision from the [[Berlin Airlift]] and approximately 8000 tonnes of provisions delivered every day of food, fuels and supplies.
+- A new perspective on the Cold War:
+	- If a conflict wouldve occurred in the Cold War it would definitely have occurred during the Berlin Crisis.
+	- The term *proxy wars* was now being used where they would avoid fighting directly but used other states named *proxy states* to fight with one another.
+	- Lead to more formal alliances being created: [[NATO]] - 1949, [[Warsaw Pact]] - 1955, [[SEATO]] - 1954, [[CENTO]] - 1955
+- Created a new Germany:
+	- The era of the 4 zones admitted upon at [[1945 07, Potsdam Conference]] - 1945 July was now over officially.
+	- Germany remained a heavily divided country:
+		- Socialist East - Poor and miserable, Stalin wanted a poor Germany.
+		- Capitalist West - Strong and good ally, took part of the [[Marshall Aid]] with $ 1.4 billion dollars and was now doing very good.
+	- The [[Berlin Airlift]] increased relations between the allies and Germany which have recently been at war.
+#Question

@@ -1,0 +1,11 @@
+#Question 
+- [[1956, Hungary]]:
+	- Leader imprisoned and executed.
+	- Strong control.
+	- Leader threatened he would leave the [[Warsaw Pact]].
+- [[1968, Czechoslovakia and The Prague Spring]]:
+	- 
+- [[1961, Berlin Wall]]:
+	- 
+- [[1980 - 1981, Solidarity in Poland]]:
+	- 

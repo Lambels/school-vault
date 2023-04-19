@@ -1,0 +1,2 @@
+- [[Endocrine System]] creates longer lasting and slower responses. These responses may continue till the hormones get broken down in the liver.
+- [[Nervous System]] creates quick responses and short lasting. Such as the nervous ark.

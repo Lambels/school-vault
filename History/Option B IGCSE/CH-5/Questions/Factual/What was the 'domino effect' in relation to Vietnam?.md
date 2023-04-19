@@ -1,0 +1,5 @@
+- [[The Domino Effect]] was the fear that if one country would fall to communism all surrounding countries would collapse as a result.
+- In [[1955 - 1975, The Vietnam War]] the fear was that if Vietnam fell to communism Laos, Cambodia and Thailand would also fall to communism.
+- The term was first used by Eisenhower and snowballed into the main reason fuelling the conflict in Vietnam.
+	- Communism was spreading to china, whats next?
+- It also lead to the creation of [[SEATO]].

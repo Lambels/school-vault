@@ -1,0 +1,12 @@
+- Dealt with **Austria**.
+- This treaty was very similar to [[1919, The Treaty Of Versailles]].
+- Under the treaty, Austria was separated from the Austria Hungarian empire which made Hungary an independent nation and confirmed that Austria was no longer a super power.
+- Anschluss forbidden.
+- Along side, harsh military restrictions and huge reparations were placed on Austria which increased the bitter-ness of the Austrians.
+	- Army restrictions of 30,000.
+	- May had lead to Anschluss.
+	- Put Austria in an Economic turmoil in the following years.
+- More territories lost:
+	- Recognise the independence of Poland, Czechoslovakia and Yugoslavia.
+	- Lost Galicia to Poland.
+	- Lost most of their infrastructure to Czechoslovakia. 

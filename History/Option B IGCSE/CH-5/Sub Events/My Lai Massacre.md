@@ -1,0 +1,6 @@
+- 400 citizens killed.
+- Only 3 weapons recovered.
+- March 16 1968 .
+- Charlie Company.
+- Covered up by military.
+- Made USA look bad back at home.

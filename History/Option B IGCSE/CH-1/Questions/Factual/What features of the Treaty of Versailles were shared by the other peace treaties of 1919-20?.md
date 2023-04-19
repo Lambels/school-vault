@@ -1,0 +1,33 @@
+#Question 
+
+- The war guilt clause from [[1919, The Treaty Of Versailles]] was reflected upon all other treaties:
+	- 1919 Austria - [[1919, The Treaty Of St Germain]]
+	- 1919 Bulgaria - [[1919, The Treaty Of Neuilly]]
+	- 1920 Hungary - [[1920, The Treaty Of Trianon]]
+	- 1920 Turkey - [[1920, The Treaty Of Sevres]]
+- All the other treaties imposed military soldiers limitations:
+	- 100,000 soldiers cap on Germany.
+	- 30,000 soldiers cap on Austria.
+	- 20,000 soldiers cap on Bulgaria.
+	- 35,000 soldiers cap on Hungary.
+	- 50,000 soldiers cap on Turkey.
+- Teritorial losses were also common amongst all treaties:
+	- Turkey lost allot of its middle eastern terrain to Britain and France: Iraq and Syria.
+	- Austria lost allot of its land to Poland, Czechoslovakia and Yugoslavia:
+		- Poland: Galicia.
+		- Czechoslovakia: Moravia.
+		- Yugoslavia: Bosnia and Herzegovina.
+	- Hungary lost allot of land:
+		- To Yugoslavia: Croatia.
+		- To Romania: Transilvania.
+		- And more to Czechoslovakia.
+	- Bulgaria also lost allot of:
+		- Coastline.
+		- Land to Yugoslavia.
+		- Land to Greece.
+- Also all the countries had to pay economically.
+	- Germany unseen sum of 6,600 million dollars.
+	- Bulgaria 100 milion dollars.
+	- Turkey had its tax system controlled by the Allies.
+	- Austria and Hungary also had to pay allot of money in reparations.
+- The creation of the [[League Of Nations]].

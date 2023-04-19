@@ -1,0 +1,5 @@
+- Dealt with **Bulgaria**.
+- Army limit to 20,000.
+- Had to pay $ 100m in reparations.
+- Lost territories and population to Yugoslavia, Romania and Greece.
+- Rise in bitterness and economical struggle.

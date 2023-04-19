@@ -1,0 +1,6 @@
+- Very important War Leader of France.
+- 77 when the Paris Peace Conference began.
+- A hard and tough politician.
+- He has seen Germany invade France 2 times, he wouldnt allow it again.
+- Nicknamed 'The Tiger'.
+- Realist.

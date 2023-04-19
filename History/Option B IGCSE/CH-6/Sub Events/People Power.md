@@ -1,0 +1,8 @@
+- Term invented by the Wester Media.
+- It meant "people standing up and defeating the communist regimes".
+- It wasnt politicians shaping up Europe in 1989, it was ordinary people.
+- It includes:
+	- The Velvet Revolution of the Czechoslovaks.
+	- [[1980 - 1981, Solidarity in Poland]].
+	- Independence movements in Baltic states: Estonia, Latvia and Lithuania in a desperate attempt to de annexe themselves from the soviets. 
+- It ultimately played a huge role in [[1989 - 1990, The Collapse of Communism in Eastern Europe]].

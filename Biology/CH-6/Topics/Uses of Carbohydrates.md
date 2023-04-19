@@ -1,0 +1,21 @@
+- The product of [[Photosynthesis]] is glucose which is a monomer of many [[Polymers]].
+- It is used to build:
+	- Cellulose.
+		- Polymer of glucose.
+		- Gives the strength and rigidity of the cell wall.
+	- Sucrose.
+		- Non reducing sugar.
+		- Does not react with oxygen.
+		- Used in transportation throughout the [[Phloem]].
+	- Starch.
+		- For efficient storage in the cell.
+		- Is insoluble.
+		- Wont affect [[Osmosis]] in and out of cells.
+	- Nectar.
+		- Attract [[Pollination]].
+	- Amino Acids.
+		- Combined with nitrates to form amino acids.
+	- Fats and Oils.
+		- Storage in seed for energy.
+
+![[Pasted image 20221210175951.png]]

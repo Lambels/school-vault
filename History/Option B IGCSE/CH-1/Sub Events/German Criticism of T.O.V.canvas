@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"ba8e63d00fd560ac","x":-2149,"y":-389,"width":1119,"height":398,"type":"group","label":"German territories"},
+		{"id":"bf0e7f45849940fe","x":-386,"y":-1320,"width":915,"height":473,"type":"group","label":"Disarmament"},
+		{"id":"233b5f1f29328567","x":-343,"y":-1008,"width":370,"height":118,"type":"text","text":"Germany was also feeling very distressed, they had just finished a war and tensions with France were at an all time high and you guessed it, they had no way to defend."},
+		{"id":"078f3ed8fd069a48","x":-342,"y":-1283,"width":814,"height":91,"color":"4","type":"text","text":"# The German Army was reduced to 100,00 men and could only have an insignificant navy and no air force."},
+		{"id":"48884558e5b5612c","x":-342,"y":-1157,"width":369,"height":118,"type":"text","text":"Germans felt that these terms were unfair, they had to limit their army to an insignificant size which didnt reflect Germany's size or power."},
+		{"id":"b601410487efb75c","x":65,"y":-1157,"width":407,"height":118,"type":"text","text":"Also despite Wilsons [[The 14 Points]] calling for disarmament none of the Allies disarmed in the same way."},
+		{"id":"d700afa0af7df9a5","x":-2105,"y":-352,"width":1002,"height":91,"color":"4","type":"text","text":"# Germany also lost **Allot** of territories. 10% of land in Europe, all its colonies  and %12 of its population ."},
+		{"id":"de7b73d065067839","x":-2105,"y":-220,"width":250,"height":147,"type":"text","text":"They lost most of their industrial land:\n- Upper Silesia to Poland.\n- Saar to plebiscites."},
+		{"id":"4277d8680d3dfe99","x":-1353,"y":-220,"width":250,"height":194,"type":"text","text":"To add salt to the wound, whilst Germany lost all its colonies to the British and French via the [[League Of Nations]], they were expanding their empires in Africa"},
+		{"id":"c3ff3f00184379c2","x":-1729,"y":-220,"width":250,"height":147,"type":"text","text":"Polish corridor now made allot of German people segregated from the German mainland"},
+		{"id":"f4c463a493b2e0b9","x":-386,"y":-389,"width":1119,"height":398,"type":"group","label":"The 14 Points And LON"},
+		{"id":"79f4d86f17e46ef3","x":-342,"y":-352,"width":1002,"height":91,"color":"4","type":"text","text":"# Wilsons [[The 14 Points]] and LON terms were very insulting to the German people."},
+		{"id":"625935dd70e214c8","x":-342,"y":-209,"width":473,"height":183,"type":"text","text":"To the most Germans the treatment of Germany and the German people wasnt correlating with Wilson 14 points. While people were given self determination left and right (Lithuania, Latvia and Estonia) the German people always seemed to be hived under some other country and never give the so promised self determination."},
+		{"id":"866c1222598a2444","x":187,"y":-209,"width":473,"height":101,"type":"text","text":"Germany not being invited to [[League Of Nations]] on terms which stated that Germany couldnt be trusted on keeping peace was again tough to swallow by the Germans."},
+		{"id":"c5b03e82967cff84","x":-1030,"y":132,"width":644,"height":237,"type":"group","label":"Non-Representation"},
+		{"id":"a6ab232f1a73548f","x":-806,"y":-726,"width":198,"height":223,"type":"text","text":"# German criticism of [[1919, The Treaty Of Versailles]]"},
+		{"id":"610b29740ce10748","x":-1005,"y":150,"width":596,"height":51,"color":"4","type":"text","text":"# Germans werent invited to peace talks"},
+		{"id":"12ebb3084aeec8e6","x":-1005,"y":219,"width":596,"height":129,"type":"text","text":"Germany was fuming that their country wasnt invited to the talks which were about its future, this really showed how much the allies cared about them. They were forced to sign their way into misery without even being given a chance of comment or choice. "},
+		{"id":"71086817cc36e1fe","x":-2152,"y":-1276,"width":1119,"height":429,"type":"group","label":"War Guilt And Reparations"},
+		{"id":"87c626bf7be54160","x":-2108,"y":-1239,"width":1002,"height":91,"color":"4","type":"text","text":"# Germans had to accept that they had solely and one hand-idly started the whole World War and now also had to finance it."},
+		{"id":"4709f86361090a36","x":-2108,"y":-1096,"width":473,"height":202,"type":"text","text":"The Germans particularly hated the war guild clause since they believed that they didnt cause the start of the war or in the least they played a role in starting the war along side other nations, never did it cross their mind that they were solely in charge. They have seen this as a one sided interpretation by the Allies which refused to man up and take some responsibility."},
+		{"id":"557a3dda0a049038","x":-1579,"y":-1096,"width":473,"height":202,"type":"text","text":"They were also bitter because they knew that the allies made them pay the unheard of sum of money even though they knew that Germany was a recovering country and that their economy was crippled. Germany was given no chance to reform."}
+	],
+	"edges":[
+		{"id":"2a5029d9c3a104f1","fromNode":"a6ab232f1a73548f","fromSide":"top","toNode":"71086817cc36e1fe","toSide":"right"},
+		{"id":"80a29508fa62cc20","fromNode":"a6ab232f1a73548f","fromSide":"top","toNode":"bf0e7f45849940fe","toSide":"left"},
+		{"id":"dbe920530290e384","fromNode":"a6ab232f1a73548f","fromSide":"bottom","toNode":"ba8e63d00fd560ac","toSide":"right"},
+		{"id":"3cb148893ad9f38b","fromNode":"a6ab232f1a73548f","fromSide":"bottom","toNode":"f4c463a493b2e0b9","toSide":"left"},
+		{"id":"a5310bc6068b9b32","fromNode":"a6ab232f1a73548f","fromSide":"bottom","toNode":"c5b03e82967cff84","toSide":"top"}
+	]
+}

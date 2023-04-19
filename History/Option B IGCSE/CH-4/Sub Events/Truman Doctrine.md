@@ -1,0 +1,4 @@
+- Started as early as 1947.
+- Marked a new era in USA's attitude to world politics.
+- USA was now prepared to send money, equipment and advice to any country threatened by communist takeover.
+- This was the start of the containment policy in easter Europe.

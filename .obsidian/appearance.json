@@ -1,0 +1,9 @@
+{
+  "accentColor": "",
+  "theme": "obsidian",
+  "translucency": true,
+  "baseFontSize": 18,
+  "enabledCssSnippets": [
+    "big-math"
+  ]
+}

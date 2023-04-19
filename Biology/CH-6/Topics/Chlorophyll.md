@@ -1,0 +1,2 @@
+- The green pigment in the chloroplasts giving the plants their infamous green colour.
+- Transfers energy from light into energy in chemicals for the synthesis of carbohydrates.
